@@ -21,7 +21,7 @@ The below table must contain the details of the repositories you will create, fi
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  Second project            |  -             | https://github.com/susanlazaro/second-project.git       |
-| 2 |  -             |  -             | https://       |
+| 2 |  my first project        |  -             | https://github.com/susanlazaro/my-first-project.git       |
 | 3 |  -             |  -             | https://       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
